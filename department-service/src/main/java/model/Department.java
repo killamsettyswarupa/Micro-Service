@@ -12,7 +12,7 @@ public class Department {
         this.id = id;
         this.name = name;
     }
-
+//constructor
     public Department() {
     }
 
